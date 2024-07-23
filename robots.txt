@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itzmagavo.github.io/sitemap
+Sitemap: https://itzmagavo.github.io/app/sitemap
+Sitemap: https://itzmagavo.github.io/assets/sitemap
+Sitemap: https://itzmagavo.github.io/css/sitemap
+Sitemap: https://itzmagavo.github.io/includes/sitemap
+Sitemap: https://itzmagavo.github.io/item/sitemap
+Sitemap: https://itzmagavo.github.io/src/sitemap
